@@ -193,7 +193,6 @@ The app is a static single-page application and deploys anywhere that serves sta
 - **React 19** + TypeScript
 - **Vite** – build tooling
 - **Tailwind CSS** + shadcn/ui components
-- **Supabase Edge Functions** *(optional server-side AI proxy)*
 - **Google Gemini API** *(optional, user-provided key)*
 
 ---
